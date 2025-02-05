@@ -12,7 +12,7 @@ A modern **full-stack web application** for browsing and purchasing audiobooks. 
 
 ### Audiobook Store  
 - **Browse and explore** a catalog of audiobooks from the database.  
-- **Purchase audiobooks** and maintain a transaction history.  
+- **Purchase audiobooks** and maintain a transaction history. 
 
 ### User Profiles  
 - Logged-in users can:  
@@ -24,7 +24,7 @@ A modern **full-stack web application** for browsing and purchasing audiobooks. 
 
 ### Frontend  
 - **Angular**: Single-page application framework.  
-- **Bootstrap**: Responsive and modern UI design.  
+- **Bootstrap**: Responsive UI design.  
 
 ### Backend  
 - **Spring Boot**: RESTful API development.  
@@ -33,6 +33,6 @@ A modern **full-stack web application** for browsing and purchasing audiobooks. 
 - **MySQL**: Relational database management.  
 
 ### Architecture  
-- Adheres to **MVC (Model-View-Controller)** architecture for clean and modular code.  
+- Adheres to **MVC (Model-View-Controller)** architecture.
 
 ---
